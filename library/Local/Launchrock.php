@@ -76,7 +76,7 @@ class Launchrock {
             array(
                 "user_id"=>$user->getLrUid(),
                 "channel"=>$channel,
-                "url"=>"http://signup.shopnbrag.com",
+                "url"=>$this->urlPrefix,
                 "shortened_id"=>""
             )
         );
