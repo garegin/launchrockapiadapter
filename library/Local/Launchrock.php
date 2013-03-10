@@ -76,7 +76,7 @@ class Launchrock {
             array(
                 "user_id"=>$user->getLrUid(),
                 "channel"=>$channel,
-                "url"=>$this->urlPrefix,
+                "url"=>$this->url,
                 "shortened_id"=>""
             )
         );
