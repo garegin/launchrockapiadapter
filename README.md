@@ -1,4 +1,6 @@
 launchrockapiadapter
 ====================
 
-adapter class for Launchrock API
+simple adapter class for Launchrock API
+
+Zend Framework library
